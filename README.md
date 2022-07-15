@@ -11,7 +11,7 @@
 </div>
 
 
-<p align="left"> <img src="https://https://komarev.com/ghpvc/?username=vikas-011&label=Profile%20views&color=0e75b6&style=flat" alt="vikassanodiya" /> </p>
+<p align="left"> <img src="https://https://komarev.com/ghpvc/?username=vikas-011&label=Profile%20views&color=0e75b6&style=flat" alt="vikassanodiya"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://vikascontactlinks.netlify.app/" alt="vikassanodiya" /></a> </p>
 
@@ -44,11 +44,5 @@
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas-011&show_icons=true&locale=en&layout=compact" alt="vikassanodiya" /></div>
 <br/>
-
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-011&" alt="vikassanodiya" /></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-011&" alt="vikassanodiya" /></div>
 <br/>
