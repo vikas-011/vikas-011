@@ -7,7 +7,7 @@
 <div>
     <img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
 </div>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaysanodiya&label=Profile%20views&color=0e75b6&style=flat" alt="jaysanodiya" /> </p>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-011&label=Profile%20views&color=0e75b6&style=flat" alt="vikassanodiya" /> </p>
 </div>
 
 - 🌱 I’m currently learning **JavaScript**
