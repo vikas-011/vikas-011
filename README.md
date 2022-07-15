@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vikas.tech011@gmail.com**
 
-- 📄 **Resume** [Click Me](https://drive.google.com/-///RESUME LINK HERE////)
+- 📄 **Resume** [Click Me](https://drive.google.com/)
 
 - ⚡ Fun fact **I think I'm Jolly.**
 
