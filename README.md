@@ -25,10 +25,10 @@
 <h3 align="left" >Connect with me:</h3>
 <br/>
 <p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vikas-sanodiya-317411215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/www.linkedin.com/in/vikas-sanodiya-317411215" height="40" width="50" /></a>
-<a href="https://fb.com/vikas sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikas sanodiya" height="40" width="50" /></a>
-<a href="https://instagram.com/sanodiyaprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanodiyaprince" height="40" width="50" /></a>
-<a href="https://https://leetcode.com/vikas-011/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_sanodiya" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/vikas-sanodiya-317411215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vikas-sanodiya-317411215" height="40" width="50" /></a>
+<a href="https://fb.com/prince.sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikas sanodiya" height="40" width="50" /></a>
+<a href="https://instagram.com/sanodiyaprince?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanodiyaprince" height="40" width="50" /></a>
+<a href="https://leetcode.com/vikas-011/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_sanodiya" height="40" width="50" /></a>
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
