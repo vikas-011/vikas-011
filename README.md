@@ -1,46 +1,110 @@
 [![MasterHead](https://imgs.search.brave.com/oZjW8wbgQnJEzhSTuvYvlgoxrDR5UkUstp9wrUnuk2k/rs:fit:1200:626:1/g:ce/aHR0cHM6Ly9tZWRp/YS1mYXN0bHkuaGFj/a2VyZWFydGguY29t/L21lZGlhL2hhY2th/dGhvbi9zYXBpZW50/LWphdmEtZGV2ZWxv/cGVyLWhpcmluZy0y/MDE5L2ltYWdlcy8z/ZDZlNGVlNDllLWhh/Y2tlci5naWY.gif)](VikasSanodiya)
-<h1 align="center">Hi 👋, I'm Vikas Sanodiya</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<div style=" font-size: medium; color: #447ff7" align=center>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-011&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-011" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Vikas+Sanodiya+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India" alt="Vikas Sanodiya" width="650" height="55">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas-011" alt="vikas-011" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vikassa54495450" target="blank"><img src="https://img.shields.io/twitter/follow/vikassa54495450?logo=twitter&style=for-the-badge" alt="vikassa54495450" /></a> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
-- 🔭 I’m currently working on **Payment Wallet Application**
 
-- 🌱 I’m currently learning **Spring boot**
 
-- 👯 I’m looking to collaborate on [Expedia.co.in](https://github.com/Sayali-Divate/ideal-loss-5580)
-
-- 🤝 I’m looking for help with [Zee5.com](https://github.com/vikas-011/Zee5_Clone)
-
-- 👨‍💻 All of my projects are available at [https://vikas-011.github.io/](https://vikas-011.github.io/)
-
-- 📝 I regularly write articles on [https://vikas-011.github.io/](https://vikas-011.github.io/)
-
-- 💬 Ask me about **JAVA, SQL, MySql, HTML, CSS, And JavaScript.**
-
-- 📫 How to reach me **vikas.tech011@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P5zmmZZIgXtgbZDQT6hD4bTr174_ZPw6/view?usp=share_link](https://drive.google.com/file/d/1P5zmmZZIgXtgbZDQT6hD4bTr174_ZPw6/view?usp=share_link)
-
-- ⚡ Fun fact **Coding**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vikassa54495450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikassa54495450" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vikas-sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-sanodiya" height="30" width="40" /></a>
-<a href="https://instagram.com/sanodiyaprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanodiyaprince" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/c/ptechlogical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/ptechlogical" height="30" width="40" /></a>
+  
+  <p align="center">
+	<a href="https://www.linkedin.com/in/vikassanodiya/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://twitter.com/Vikassa54495450">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>
+   <a href="https://vikas-011.github.io">
+		<img src="https://img.shields.io/badge/portfolio-003049?style=for-the-badge&logo=About.me&logoColor=white" />
+	</a>
+    <a href="mailto:vikas.tech011@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+        <a href="https://www.facebook.com/">
+		<img src="https://img.shields.io/badge/Facebook-00acee?style=for-the-badge&logo=facebook&logoColor=white" />
+	</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=vikas-011.visitor-badge.issue.1&title=Github%20Visitors)
+![Github Followers](https://img.shields.io/github/followers/vikas-011?label=Github%20Connection&style=flat)
+</div>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas-011&show_icons=true&locale=en&layout=compact" alt="vikas-011" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-011&show_icons=true&locale=en" alt="vikas-011" /></p>
+<h2><i>What I'm focusing on 👨‍</i></h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-011&" alt="vikas-011" /></p>
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/vikas-011/vikas-011/blob/main/apple.gif">
+
+
+- 🌱 I’m currently learning **Spring Boot**
+-  👯 I’m looking forward to collaborate with other developer
+- 🥅 Goals: Make projects and contribute to Open Source
+- 👨‍💻 All of my projects are available at **[Portfolio](https://vikas-011.github.io)**
+- 📫 How to reach me **vikas.tech011@gmail.com**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1P5zmmZZIgXtgbZDQT6hD4bTr174_ZPw6/view)**
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
+
+<p align="center" width=50%> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas-011&theme=tokyonight" alt="Vikas Sanodiya" /></a> </p>
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<h2><i>Languages and Tools:</i></h2>
+
+
+<div align=center>
+  <h3>Front End</h3>
+<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/npm-559E2C?style=for-the-badge&logo=npm&logoColor=white">
+
+ <h3>Back End</h3>
+
+  <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img  src="https://img.shields.io/badge/mysql-F39C12?style=for-the-badge&logo=mysql&logoColor=black"> <img src="https://img.shields.io/badge/Spring-559E2C?style=for-the-badge&logo=spring&logoColor=white"> <img  src="https://img.shields.io/badge/Hibernate-FCBF49?style=for-the-badge&logo=hibernate&logoColor=black"> 
+  
+  
+   <h3>Tools & Platflorms</h3>
+  
+  ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+ 
+   </div> 
+
+
+ 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
+<br><br>
+<h2><i>My Github Stats</i><h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-011&theme=gotham&hide_border=true" alt="vikas-011" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=vikas-011&show_icons=true&theme=gotham&hide_border=true" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="center" width="100%" height='220px'src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-011&theme=gotham&langs_count=8&hide_border=true" alt="vikas-011" />
+<div>
+<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
+
+
+<br>
+<div style=" font-size: medium; color: #447ff7" align=center>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Thanks+for+visiting+%F0%9F%91%8B%F0%9F%8F%BB" alt="Thanks for visiting" width="650" height="55">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
