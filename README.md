@@ -44,7 +44,7 @@
 - 🥅 Goals: Make projects and contribute to Open Source
 - 👨‍💻 All of my projects are available at **[Portfolio](https://vikas-011.github.io)**
 - 📫 How to reach me **vikas.tech011@gmail.com**
-- 📄 Know about my experiences **[Resume](https://vikas-011.github.io)**
+- 📄 Know about my experiences **[Resume](https://vikas-011.github.io/Resume%20Vikas%20Sanodiya.pdf)**
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
