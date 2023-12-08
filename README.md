@@ -106,8 +106,7 @@
 <br>
 <div style=" font-size: medium; color: #447ff7" align=center>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Thanks+for+visiting+%F0%9F%91%8B%F0%9F%8F%BB" alt="Thanks for visiting" width="650" height="55">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
 
 And Here is new instructions
 
@@ -115,4 +114,5 @@ And Here is new instructions
 
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-011&theme=gotham&hide_border=true"/>
 
-### Thanks for visiting! 😊 for vikas sanodiya
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Thanks+for+visiting+%F0%9F%91%8B%F0%9F%8F%BB" alt="Thanks for visiting" width="650" height="55">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
