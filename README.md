@@ -12,14 +12,16 @@
 
 
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
-
-- 🌱 I’m currently learning **Spring Boot**
-- 👯 I’m looking forward to collaborating with other developers
-- 🥅 Goals: Make projects and contribute to Open Source
-- 👨‍💻 All of my projects are available at **[Portfolio](https://vikas-011.github.io)**
-- 📫 How to reach me: [vikas.tech011@gmail.com](mailto:vikas.tech011@gmail.com)
-- 📄 Know about my experiences **[Resume](https://vikas-011.github.io/Resume%20Vikas%20Sanodiya.pdf)**
-- ⚡ Fun fact, I'm also an avid photographer.
+<div style="text-align: left;">
+  <ul>
+    <li>🌱 I’m currently learning <strong>Spring Boot</strong></li>
+    <li>👯 I’m looking forward to collaborating with other developers</li>
+    <li>🥅 Goals: Make projects and contribute to Open Source</li>
+    <li>👨‍💻 All of my projects are available at <strong>[Portfolio](https://vikas-011.github.io)</strong></li>
+    <li>📫 How to reach me: <a href="mailto:vikas.tech011@gmail.com">vikas.tech011@gmail.com</a></li>
+    <li>📄 Know about my experiences <strong>[Resume](https://vikas-011.github.io/Resume%20Vikas%20Sanodiya.pdf)</strong></li>
+  </ul>
+</div>
 
 ## 🌐 Socials:
 
