@@ -1,16 +1,16 @@
-<!-- ### Hello, I'm Vikas Sanodiya! 👋 -->
+User
+this is old README.md
 
-<!-- <h1>Hello, I'm Vikas Sanodiya! </h1> -->
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFuuVzD3UY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
+[![MasterHead](https://imgs.search.brave.com/oZjW8wbgQnJEzhSTuvYvlgoxrDR5UkUstp9wrUnuk2k/rs:fit:1200:626:1/g:ce/aHR0cHM6Ly9tZWRp/YS1mYXN0bHkuaGFj/a2VyZWFydGguY29t/L21lZGlhL2hhY2th/dGhvbi9zYXBpZW50/LWphdmEtZGV2ZWxv/cGVyLWhpcmluZy0y/MDE5L2ltYWdlcy8z/ZDZlNGVlNDllLWhh/Y2tlci5naWY.gif)](VikasSanodiya)
+<div style=" font-size: medium; color: #447ff7" align=center>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Vikas+Sanodiya+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India" alt="Vikas Sanodiya" width="650" height="55">
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
+
+
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFuuVzD3UY&#x2F;view?utm_content=DAFuuVzD3UY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">new Resume Vikas Sanodiya</a> by vikas sanodiya
 <h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </span>, My name is Vikas Sanodiya</h1>
