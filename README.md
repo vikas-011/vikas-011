@@ -13,27 +13,13 @@
 
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
-## :man_technologist: About Me :
-
-I am an aspiring Full Stack Developer.
-
-- 🌱 I’m currently enlightening myself with Spring Security.
-  <br>
-  💬 Ask me about Java & SpringBoot.
-  <br>
-  👨‍💻 All my projects are available in the [repository section](https://github.com/vikas-011?tab=repositories).
-  <br>
-  👨🏻‍🎓 Have a look at my [Portfolio](https://vikas-011.github.io/).
-  <br>
-- 🪢 Know more about me **[My Resume](https://vikas-011.github.io/Resume%20Vikas%20Sanodiya.pdf)**
-  <br>
-- 💬 Ask me about **JAVA,Spring, Hibernate, MySQL, HTML, CSS, JavaScript and DSA**
-  <br>
-- 📫 How to reach me **vikas.tech011@gmail.com**
-  <br>
+- 🌱 I’m currently learning **Spring Boot**
+- 👯 I’m looking forward to collaborating with other developers
+- 🥅 Goals: Make projects and contribute to Open Source
+- 👨‍💻 All of my projects are available at **[Portfolio](https://vikas-011.github.io)**
+- 📫 How to reach me: [vikas.tech011@gmail.com](mailto:vikas.tech011@gmail.com)
+- 📄 Know about my experiences **[Resume](https://vikas-011.github.io/Resume%20Vikas%20Sanodiya.pdf)**
 - ⚡ Fun fact, I'm also an avid photographer.
-
-<br>
 
 ## 🌐 Socials:
 
