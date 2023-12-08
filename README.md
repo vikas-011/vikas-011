@@ -32,7 +32,7 @@ I am an aspiring Full Stack Developer.
   <br>
   👨🏻‍🎓 Have a look at my [Portfolio](https://vikas-011.github.io/).
   <br>
-- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1IEaQZ-84AfoAtweWqwHMa0gbD5II87MW/view?usp=sharing)**
+- 🪢 Know more about me **[My Resume](https://vikas-011.github.io/Resume%20Vikas%20Sanodiya.pdf)**
   <br>
 - 💬 Ask me about **JAVA,Spring, Hibernate, MySQL, HTML, CSS, JavaScript and DSA**
   <br>
