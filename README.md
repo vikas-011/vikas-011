@@ -1,95 +1,91 @@
+<!-- ### Hello, I'm Vikas Sanodiya! 👋 -->
 
-
-
-[![MasterHead](https://imgs.search.brave.com/oZjW8wbgQnJEzhSTuvYvlgoxrDR5UkUstp9wrUnuk2k/rs:fit:1200:626:1/g:ce/aHR0cHM6Ly9tZWRp/YS1mYXN0bHkuaGFj/a2VyZWFydGguY29t/L21lZGlhL2hhY2th/dGhvbi9zYXBpZW50/LWphdmEtZGV2ZWxv/cGVyLWhpcmluZy0y/MDE5L2ltYWdlcy8z/ZDZlNGVlNDllLWhh/Y2tlci5naWY.gif)](https://github.com/vikas-011)
-<div style="font-size: medium; color: #447ff7" align=center>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Vikas+Sanodiya+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India" alt="Vikas Sanodiya" width="650" height="55">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-  
-<p align="center">
-  <a href="https://www.linkedin.com/in/vikassanodiya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Vikassa54495450">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://vikas-011.github.io">
-    <img src="https://img.shields.io/badge/portfolio-003049?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="mailto:vikas.tech011@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-00acee?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=vikas-011.visitor-badge.issue.1&title=Github%20Visitors)
-![Github Followers](https://img.shields.io/github/followers/vikas-011?label=Github%20Connection&style=flat)
+<!-- <h1>Hello, I'm Vikas Sanodiya! </h1> -->
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<h2><i>What I'm focusing on 👨‍</i></h2>
-
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/vikas-011/vikas-011/blob/main/apple.gif">
-
-- 🌱 I’m currently learning **Spring Boot**
-- 👯 I’m looking forward to collaborating with other developers
-- 🥅 Goals: Make projects and contribute to Open Source
-- 👨‍💻 All of my projects are available at **[Portfolio](https://vikas-011.github.io)**
-- 📫 How to reach me: [vikas.tech011@gmail.com](mailto:vikas.tech011@gmail.com)
-- 📄 Know about my experiences **[Resume](https://vikas-011.github.io/Resume%20Vikas%20Sanodiya.pdf)**
-
-<p align="center" width=50%> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas-011&theme=tokyonight" alt="Vikas Sanodiya" /></a> </p>
-
-<h2><i>Languages and Tools:</i></h2>
-
-<div align=center>
-  <h3>Front End</h3>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/npm-559E2C?style=for-the-badge&logo=npm&logoColor=white">
-
-  <h3>Back End</h3>
-
-  <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-F39C12?style=for-the-badge&logo=mysql&logoColor=black"> <img src="https://img.shields.io/badge/Spring-559E2C?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-FCBF49?style=for-the-badge&logo=hibernate&logoColor=black">
-
-  <h3>Tools & Platforms</h3>
-
-  ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-  
-  ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFuuVzD3UY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
 </div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFuuVzD3UY&#x2F;view?utm_content=DAFuuVzD3UY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">new Resume Vikas Sanodiya</a> by vikas sanodiya
+<h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</span>, My name is Vikas Sanodiya</h1>
+<h3 align="center">An Aspiring Full Stack Web Developer.</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<h2><i>My Github Stats</i><h2>
+<img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-011&theme=gotham&hide_border=true" alt="vikas-011" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=vikas-011&show_icons=true&theme=gotham&hide_border=true" height="255px" width="47%" />
-</div>
-  </br>
-<div>
-  <img align="center" width="100%" height='220px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-011&theme=gotham&langs_count=8&hide_border=true" alt="vikas-011" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## :man_technologist: About Me :
+
+I am an aspiring Full Stack Developer.
+
+- 🌱 I’m currently enlightening myself with Spring Security.
+  <br>
+  💬 Ask me about Java & SpringBoot.
+  <br>
+  👨‍💻 All my projects are available in the [repository section](https://github.com/vikas-011?tab=repositories).
+  <br>
+  👨🏻‍🎓 Have a look at my [Portfolio](https://vikas-011.github.io/).
+  <br>
+- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1IEaQZ-84AfoAtweWqwHMa0gbD5II87MW/view?usp=sharing)**
+  <br>
+- 💬 Ask me about **JAVA,Spring, Hibernate, MySQL, HTML, CSS, JavaScript and DSA**
+  <br>
+- 📫 How to reach me **vikas.tech011@gmail.com**
+  <br>
+- ⚡ Fun fact, I'm also an avid photographer.
 
 <br>
-<div style="font-size: medium; color: #447ff7" align=center>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Thanks+for+visiting+%F0%9F%91%8B%F0%9F%8F%BB" alt="Thanks for visiting" width="650" height="55">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+## 🌐 Socials:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-sanodiya-117129252)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://vikas-011.github.io/)&nbsp;
 
+<br>
+
+## 💻 Tech Stack:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
+![Spring](https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
+![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
+![Hibernate](https://img.shields.io/badge/hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+
+<br>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=vikas-011&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
+
+## 📊 GitHub Stats:
+
+<!-- Total Stats -->
+
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=vikas-011&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+<!-- Streak Stats -->
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=vikas-011&theme=gotham&hide_border=false)<br/>
+
+<!-- Top Languages -->
+
+![vikas-011 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-011&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+
+<br>
+
+## ⚡ Activity Graph
+
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-011&theme=gotham&hide_border=true"/>
+
+### Thanks for visiting! 😊 for vikas sanodiya
