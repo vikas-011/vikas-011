@@ -1,5 +1,3 @@
-User
-this is old README.md
 
 [![MasterHead](https://imgs.search.brave.com/oZjW8wbgQnJEzhSTuvYvlgoxrDR5UkUstp9wrUnuk2k/rs:fit:1200:626:1/g:ce/aHR0cHM6Ly9tZWRp/YS1mYXN0bHkuaGFj/a2VyZWFydGguY29t/L21lZGlhL2hhY2th/dGhvbi9zYXBpZW50/LWphdmEtZGV2ZWxv/cGVyLWhpcmluZy0y/MDE5L2ltYWdlcy8z/ZDZlNGVlNDllLWhh/Y2tlci5naWY.gif)](VikasSanodiya)
 <div style=" font-size: medium; color: #447ff7" align=center>
@@ -11,12 +9,7 @@ this is old README.md
 
 
 
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFuuVzD3UY&#x2F;view?utm_content=DAFuuVzD3UY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">new Resume Vikas Sanodiya</a> by vikas sanodiya
-<h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</span>, My name is Vikas Sanodiya</h1>
-<h3 align="center">An Aspiring Full Stack Web Developer.</h3>
 
----
 
 <img src="https://user-images.githubusercontent.com/56123405/177257029-97b74749-6158-42db-a3bc-c4f8f80db01c.png" align="right" width=300>
 
