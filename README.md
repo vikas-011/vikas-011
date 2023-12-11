@@ -1,118 +1,98 @@
-
-[![MasterHead](https://imgs.search.brave.com/oZjW8wbgQnJEzhSTuvYvlgoxrDR5UkUstp9wrUnuk2k/rs:fit:1200:626:1/g:ce/aHR0cHM6Ly9tZWRp/YS1mYXN0bHkuaGFj/a2VyZWFydGguY29t/L21lZGlhL2hhY2th/dGhvbi9zYXBpZW50/LWphdmEtZGV2ZWxv/cGVyLWhpcmluZy0y/MDE5L2ltYWdlcy8z/ZDZlNGVlNDllLWhh/Y2tlci5naWY.gif)](VikasSanodiya)
-<div style=" font-size: medium; color: #447ff7" align=center>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Vikas+Sanodiya+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India" alt="Vikas Sanodiya" width="650" height="55">
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-
-
-
-  
-  <p align="center">
-	<a href="https://www.linkedin.com/in/vikassanodiya/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://twitter.com/Vikassa54495450">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-   <a href="https://vikas-011.github.io">
-		<img src="https://img.shields.io/badge/portfolio-003049?style=for-the-badge&logo=About.me&logoColor=white" />
-	</a>
-    <a href="mailto:vikas.tech011@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-        <a href="https://www.facebook.com/">
-		<img src="https://img.shields.io/badge/Facebook-00acee?style=for-the-badge&logo=facebook&logoColor=white" />
-	</a>
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1609863995034/X1npNgq5d.gif)](https://vikas-011.github.io)
+<!-- <h1 align="center">Hi👋 I'm Vikas Sanodiya </h1> -->
+<h1 align='center'><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Vikas Sanodiya 🙂</h1>
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&speed=10&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+web+developer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack web developer from India." />
 </p>
+ 
+<h2 align='center'>
+A passionate Full Stack Web Developer, committed to continuous learning, proficient in both front-end and back-end Web Development. Experienced in HTML, CSS, Angular, JavaScript, Java, Mongo DB, Springboot, Node, and Prompt Engineering. Demonstrates a strong aptitude for quickly acquiring new technologies with a keen eye for detail. Strives to apply expertise to create top-notch websites, contributing to organizational success in achieving functional objectives.</h2>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=vikas-011.visitor-badge.issue.1&title=Github%20Visitors)
-![Github Followers](https://img.shields.io/github/followers/vikas-011?label=Github%20Connection&style=flat)
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+ 
+ <img class="mt200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="250" width="300px" align="right" >
+  
+
+<div align="center">
+ <p>🌱 I’m currently learning MERN Stack Development</p>
+ <p>💬 Ask me about HTML, CSS, Java , JavaScript, MySql , DS-Algo</p>
+ <p>👨‍💻 All of my projects deployed on: <a href="https://vikas-011.github.io/">https://vikas-011.github.io/</a></p>
+ <p>📫 How to reach me: <a href="vikas.tech011@gmail.com">vikas.tech011@gmail.com</a></p> 
+ <p>📄 Know about my experiences : <a href="https://vikas-011.github.io/Resume%20Vikas%20Sanodiya.pdf">Resume</a></p>
 </div>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
-
-<h2><i>What I'm focusing on 👨‍</i></h2>
-
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/vikas-011/vikas-011/blob/main/apple.gif">
-
-
-- 🌱 I’m currently learning **Spring Boot**
--  👯 I’m looking forward to collaborate with other developer
-- 🥅 Goals: Make projects and contribute to Open Source
-- 👨‍💻 All of my projects are available at **[Portfolio](https://vikas-011.github.io)**
-- 📫 How to reach me **vikas.tech011@gmail.com**
-- 📄 Know about my experiences **[Resume](https://vikas-011.github.io/Resume%20Vikas%20Sanodiya.pdf)**
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+<div align="center">
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-
-
-<p align="center" width=50%> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas-011&theme=tokyonight" alt="Vikas Sanodiya" /></a> </p>
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-<h2><i>Languages and Tools:</i></h2>
-
-
-<div align=center>
-  <h3>Front End</h3>
-<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/npm-559E2C?style=for-the-badge&logo=npm&logoColor=white">
-
- <h3>Back End</h3>
-
-  <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img  src="https://img.shields.io/badge/mysql-F39C12?style=for-the-badge&logo=mysql&logoColor=black"> <img src="https://img.shields.io/badge/Spring-559E2C?style=for-the-badge&logo=spring&logoColor=white"> <img  src="https://img.shields.io/badge/Hibernate-FCBF49?style=for-the-badge&logo=hibernate&logoColor=black"> 
-  
-  
-   <h3>Tools & Platflorms</h3>
-  
-  ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-
+    
+   <div align="center">
+    <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
+   <br/>
+   <p>
+    <img src="https://img.shields.io/badge/Prompt_Engineering-eed202?style=for-the-badge&logo=Prompt_Engineering" alt="Prompt-Engineering" />
+    <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular" alt="Angular" />
+    <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" alt="Python" />
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-Cypress-311C87?style=for-the-badge&logo=apollo-cypress" alt="Cypress" />
+    <img src="https://img.shields.io/badge/-MySql-E10098?style=for-the-badge&logo=MySql" alt="MySql" />
+    <img src="https://img.shields.io/badge/Java -20232A?style=for-the-badge&logo=Java&logoColor=61DAFB" alt="Java " />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Springboot-000000?style=for-the-badge&logo=Springboot&logoColor=white" alt="Springboot" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /> 
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> 
+    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+    <img src="https://img.shields.io/badge/-VScode-336791?style=for-the-badge&logo=VScode" alt="VScode" />
+    <img src="https://img.shields.io/badge/-Netlify-430098?style=for-the-badge&logo=Netlify" alt="Netlify" />
+   </p>
+</div>
  
-   </div> 
-
-
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java ](https://img.shields.io/badge/-Java -black?style=flat-square&logo=Java )
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![ChakraUI](https://img.shields.io/badge/-ChakraUI-00599C?style=flat-square&logo=ChakraUI)
+![MySql](https://img.shields.io/badge/-MySql-E10098?style=flat-square&logo=MySql)
+![Cypress](https://img.shields.io/badge/-Cypress-311C87?style=flat-square&logo=apollo-cypress)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![ExpessJS](https://img.shields.io/badge/-ExpessJS-black?style=flat-square&logo=Springboot)
+![VScode](https://img.shields.io/badge/-VScode-336791?style=flat-square&logo=VScode)
+![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=Netlify)
+  -->
+<div/>
+ <br/>
+ <h2 align="center">📊 My Github Stats</h2>
+   <br/>   
  
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-
-<br><br>
-<h2><i>My Github Stats</i><h2>
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-011&theme=gotham&hide_border=true" alt="vikas-011" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=vikas-011&show_icons=true&theme=gotham&hide_border=true" height="255px" width="47%"/>
-<div>
-  </br>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas-011&show_icons=true&locale=en&layout=compact" alt="vikas-011" /></p>
   
-<div>
-  <img align="center" width="100%" height='220px'src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-011&theme=gotham&langs_count=8&hide_border=true" alt="vikas-011" />
-<div>
-<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+  <br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vikas-011&show_icons=true&&theme=highcontrast&ring=38EBDA" alt="vikas-011" /></p>
+ <br/>
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas-011&show_icons=true&&theme=highcontrast&ring=38EBDA" alt="vikas-011" /></p>
+ <br/>
+ 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vikas-011.vikas-011)
 
 
+Connect with me :
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikassanodiya?original_referer=https%3A%2F%2Fwww.google.com%2F)](https://www.linkedin.com/in/vikassanodiya?original_referer=https%3A%2F%2Fwww.google.com%2F)  [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vikas.tech011@gmail.com)](mailto:vikas.tech011@gmail.com)
+ 
+ 
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  </p>
 
-<br>
-<div style=" font-size: medium; color: #447ff7" align=center>
-
-
-
-And Here is new instructions
-
-## ⚡ Activity Graph
-
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-011&theme=gotham&hide_border=true"/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Thanks+for+visiting+%F0%9F%91%8B%F0%9F%8F%BB" alt="Thanks for visiting" width="650" height="55">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
