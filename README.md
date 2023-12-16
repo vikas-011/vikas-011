@@ -14,7 +14,7 @@ A passionate Full Stack Web Developer, committed to continuous learning, profici
   
 
 <div align="center">
- <p>🌱 I’m currently learning MERN Stack Development</p>
+ <p>🌱 I’m currently learning Genrative-Ai</p>
  <p>💬 Ask me about HTML, CSS, Java , JavaScript, MySql , DS-Algo</p>
  <p>👨‍💻 All of my projects deployed on: <a href="https://vikas-011.github.io/">https://vikas-011.github.io/</a></p>
  <p>📫 How to reach me: <a href="vikas.tech011@gmail.com">vikas.tech011@gmail.com</a></p> 
