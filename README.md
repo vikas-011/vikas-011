@@ -18,6 +18,7 @@ A passionate Full Stack Web Developer, committed to continuous learning, profici
  <p>💬 Ask me about HTML, CSS, Java , JavaScript, MySql , DS-Algo</p>
  <p>👨‍💻 All of my projects deployed on: <a href="https://vikas-011.github.io/">https://vikas-011.github.io/</a></p>
  <p>📫 How to reach me: <a href="vikas.tech011@gmail.com">vikas.tech011@gmail.com</a></p> 
+<p>📫 Connect me on LinkedIn <a href="https://www.linkedin.com/in/vikassanodiya">vikassanodiya</a></p>
  <p>📄 Know about my experiences : <a href="https://vikas-011.github.io/Resume%20Vikas%20Sanodiya.pdf">Resume</a></p>
 </div>
 
